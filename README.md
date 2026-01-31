@@ -2,7 +2,7 @@
 
 <h3 align="center">
 Aspiring Machine Learning & GenAI Engineer passionate about building end-to-end AI solutions.
-I work with real-world datasets, ML models, and Python to solve practical problems — 
+I work with real-world datasets, ML models, and Python to solve practical problems - 
 from data preprocessing and model training to evaluation and basic deployment.
 </h3>
 
