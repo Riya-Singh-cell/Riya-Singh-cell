@@ -1,45 +1,61 @@
-<h1 align="center">Hi 👋, I'm Riya Singh</h1>
+<h2 align="left">Hi 👋! I'm Riya Singh — a Machine Learning & Generative AI enthusiast from SRM University, AP</h2>
 
-<h3 align="center">
-Machine Learning & Generative AI enthusiast building intelligent systems from data to deployment.  
-I enjoy transforming raw information into impactful solutions using ML, NLP, and modern LLM frameworks.
-From preprocessing and modeling to evaluation and backend integration, I love shipping real, usable AI.
-</h3>
+###
 
-- 📫 Reach me at: <b>riya160305@gmail.com</b>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🚀 About Me</h3>
 <p align="left">
+I enjoy building intelligent systems from data to deployment.  
+My interests include Machine Learning, NLP, LLM applications, and creating AI solutions that are practical and scalable.
+</p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Riya-Singh-cell&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Riya-Singh-cell&layout=compact&theme=dracula" height="150" />
+</div>
+
+###
+
+<h3 align="left">🧠 Tech I Work With</h3>
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" />
+  <img width="10"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" />
+</p>
+
+<p align="left">
+<b>LLM Stack:</b> LangChain • FAISS • HuggingFace • Prompt Engineering  
+</p>
+
+###
+
+<h3 align="left">📫 Connect with Me</h3>
+<p align="left">
+  <a href="mailto:riya160305@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/riya-singh-77a658295/" target="_blank">
-    <img align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/riya_singh333/" target="_blank">
-    <img align="center" 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-      alt="LeetCode" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
-<h3 align="left">🔥 Current Focus</h3>
-<ul>
-  <li>Designing Machine Learning pipelines for real-world data</li>
-  <li>Deep Learning & Computer Vision systems</li>
-  <li>Retrieval-Augmented Generation (RAG) & LLM applications</li>
-  <li>Building AI backends and deploying intelligent services</li>
-</ul>
+###
 
-<h3 align="left">Languages & Tools</h3>
-<p align="left">
-  <b>Languages:</b> Python, Java, JavaScript, C++ <br/>
-  <b>ML / AI:</b> Scikit-learn, TensorFlow, PyTorch, OpenCV, Pandas, Seaborn <br/>
-  <b>LLM Stack:</b> LangChain, FAISS, HuggingFace, Prompt Engineering <br/>
-  <b>Web & Tools:</b> FastAPI, Flask, React, Postman <br/>
-  <b>Databases:</b> MySQL, MongoDB, SQL Server
-</p>
+<h3 align="left">🐍 Contributions</h3>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=riya-singh-cell&show_icons=true&locale=en&layout=compact" 
-       alt="Top Languages" />
-</p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Riya-Singh-cell/Riya-Singh-cell/output/snake.svg" alt="Snake animation" />
+
+###
