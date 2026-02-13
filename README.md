@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Riya Singh</h1>
 
 <h3 align="center">
-Aspiring Machine Learning & GenAI Engineer passionate about building end-to-end AI solutions.
-I work with real-world datasets, ML models, and Python to solve practical problems - 
-from data preprocessing and model training to evaluation and basic deployment.
+Machine Learning & Generative AI enthusiast building intelligent systems from data to deployment.  
+I enjoy transforming raw information into impactful solutions using ML, NLP, and modern LLM frameworks.
+From preprocessing and modeling to evaluation and backend integration, I love shipping real, usable AI.
 </h3>
 
 - 📫 Reach me at: <b>riya160305@gmail.com</b>
@@ -22,19 +22,20 @@ from data preprocessing and model training to evaluation and basic deployment.
   </a>
 </p>
 
-<h3 align="left">🔥 Featured Focus</h3>
+<h3 align="left">🔥 Current Focus</h3>
 <ul>
-  <li>Machine Learning (Classification, Prediction, Evaluation)</li>
-  <li>Deep Learning & Computer Vision</li>
-  <li>Python Development & Data Analysis</li>
-  <li>Exploring Generative AI & LLM-based applications</li>
+  <li>Designing Machine Learning pipelines for real-world data</li>
+  <li>Deep Learning & Computer Vision systems</li>
+  <li>Retrieval-Augmented Generation (RAG) & LLM applications</li>
+  <li>Building AI backends and deploying intelligent services</li>
 </ul>
 
 <h3 align="left">Languages & Tools</h3>
 <p align="left">
-  <b>Languages:</b> Python, JavaScript, Java, C++ <br/>
+  <b>Languages:</b> Python, Java, JavaScript, C++ <br/>
   <b>ML / AI:</b> Scikit-learn, TensorFlow, PyTorch, OpenCV, Pandas, Seaborn <br/>
-  <b>Web & Tools:</b> React, Bootstrap, Tailwind CSS, Postman <br/>
+  <b>LLM Stack:</b> LangChain, FAISS, HuggingFace, Prompt Engineering <br/>
+  <b>Web & Tools:</b> FastAPI, Flask, React, Postman <br/>
   <b>Databases:</b> MySQL, MongoDB, SQL Server
 </p>
 
