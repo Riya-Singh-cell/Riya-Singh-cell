@@ -6,42 +6,68 @@
 # 💫 About Me
 
 I'm a passionate B.Tech student focused on **Artificial Intelligence, Machine Learning, and Full Stack Development**.  
-I enjoy transforming ideas into scalable real-world applications and constantly challenging myself to grow.
+I love building real-world applications that solve meaningful problems and exploring how AI can create impactful systems.
 
-- 🔭 Currently building ML & Full Stack projects  
-- 🌱 Learning Deep Learning & Advanced DSA  
-- 💡 Strong interest in building production-level AI systems  
+- 🔭 Currently building AI-powered and full-stack applications  
+- 🌱 Learning Deep Learning, GenAI, and Advanced DSA  
+- 💡 Interested in developing scalable, production-level AI systems  
 
 ---
 
-## 🚀 Featured AI Projects
+## 🚀 Featured Projects
 
-### 🧠 Medical RAG System
-Built a Retrieval-Augmented Generation (RAG) system using LangChain, FAISS, and LLMs to extract structured medical insights from unstructured reports. Implemented embedding search, document chunking, and semantic retrieval.
+### 🤖 PrepGenie – AI Study Assistant  
+An **AI-powered intelligent learning platform** that generates personalized study plans, notes, and mock tests.
 
-### 🎯 Skill Match AI
-Developed an AI-powered job-candidate matching system using NLP, embeddings, and similarity scoring to intelligently rank candidates based on job descriptions.
+- Built using **LLMs, LangChain, and Groq API**
+- Generates **adaptive study schedules** based on user input  
+- Provides **AI-generated notes and explanations**  
+- Designed with a clean, modern UI for better user experience  
 
-### 🧘 MindEase – AI Mental Health Check-in
-Designed an AI-based self-check-in platform that analyzes user inputs to assess emotional state and provide structured mental wellness feedback.
+---
 
-### 📊 Sentiment Analysis System
-Built an NLP-based sentiment analysis pipeline using machine learning techniques to classify text into positive, negative, or neutral categories with high accuracy.
+### 🌸 SafeNest – Discreet Domestic Safety Assistant  
+A **women safety web application** designed for emergency situations in unsafe environments.
+
+- One-click **SOS activation system**  
+- **Automatic video & audio recording** for evidence  
+- **Real-time location tracking with map integration**  
+- **Emergency alerts via SMS, WhatsApp & call options**  
+- **Cloud-based evidence storage (Google Drive)**  
+
+---
+
+### 🧠 Medical RAG System  
+Built a Retrieval-Augmented Generation (RAG) system using LangChain and FAISS to extract structured medical insights from unstructured reports.
+
+---
+
+### 🎯 Skill Match AI  
+Developed an AI-powered job-candidate matching system using NLP and embeddings to rank candidates intelligently.
+
+---
+
+### 🧘 MindEase – AI Mental Health Check-in  
+Designed an AI system that analyzes user input and provides structured emotional wellness feedback.
+
+---
+
+### 📊 Sentiment Analysis System  
+Built an NLP pipeline to classify text into positive, negative, or neutral sentiments.
 
 ---
 
 ## 🏆 Achievements
 
-- 🚀 Built multiple ML & Full Stack projects  
+- 🚀 Built multiple AI & Full Stack projects  
 - 🏅 Active participant in Hackathons & Tech Events  
-- 📚 Continuously improving problem-solving & system thinking  
-
+- 📚 Continuously improving problem-solving & system design skills  
 
 ---
 
-## 💡 Coding Profiles
+## 💻 Coding Profiles
 
-- 💻 LeetCode: https://leetcode.com/u/Riya_Singh333/ 
+- 💻 LeetCode: https://leetcode.com/u/Riya_Singh333/  
 
 ---
 
@@ -78,7 +104,7 @@ Built an NLP-based sentiment analysis pipeline using machine learning techniques
 ### 🛠 Tools & Version Control
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
-
+---
 
 ## ✍️ Developer Quote
 
