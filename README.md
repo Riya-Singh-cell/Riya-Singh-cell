@@ -1,16 +1,20 @@
+
+
 <h1 align="center">Hi 👋, I'm Riya Singh</h1>
-<h3 align="center">🚀 AI & Full Stack Enthusiast | B.Tech Student | Future GenAI Engineer</h3>
+<h3 align="center">🚀 Data & AI Enthusiast | Cloud Computing Student | Aspiring Data Engineer</h3>
 
 ---
 
 # 💫 About Me
 
-I'm a passionate B.Tech student focused on **Artificial Intelligence, Machine Learning, and Full Stack Development**.  
-I love building real-world applications that solve meaningful problems and exploring how AI can create impactful systems.
+I'm a B.Tech student with a strong focus on **Data Engineering, Analytics, and Artificial Intelligence**.
+I enjoy building end-to-end data-driven systems — from data processing and pipelines to intelligent applications and dashboards.
 
-- 🔭 Currently building AI-powered and full-stack applications  
-- 🌱 Learning Deep Learning, GenAI, and Advanced DSA  
-- 💡 Interested in developing scalable, production-level AI systems  
+* 🔭 Currently building data-driven and AI-powered applications
+* 🌱 Learning Data Engineering, Cloud (AWS), and Advanced Machine Learning
+* 💡 Interested in scalable data systems, ETL pipelines, and real-world analytics solutions
+* ⚡ Passionate about turning raw data into meaningful insights and intelligent products
+
 
 ---
 
