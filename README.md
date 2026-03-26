@@ -1,14 +1,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Riya Singh</h1>
-<h3 align="center">🚀 Data & AI Enthusiast | Cloud Computing Student | Aspiring Data Engineer</h3>
+<h3 align="center">🚀 Data & AI Enthusiast | Cloud Computing Student</h3>
 
 ---
 
 # 💫 About Me
 
 I'm a B.Tech student with a strong focus on **Data Engineering, Analytics, and Artificial Intelligence**.
-I enjoy building end-to-end data-driven systems — from data processing and pipelines to intelligent applications and dashboards.
+I enjoy building end-to-end data-driven systems - from data processing and pipelines to intelligent applications and dashboards.
 
 * 🔭 Currently building data-driven and AI-powered applications
 * 🌱 Learning Data Engineering, Cloud (AWS), and Advanced Machine Learning
