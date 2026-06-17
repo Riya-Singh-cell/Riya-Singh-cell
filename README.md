@@ -1,65 +1,60 @@
 
 
 <h1 align="center">Hi 👋, I'm Riya Singh</h1>
-<h3 align="center">🚀 Data & AI Enthusiast | Cloud Computing Student</h3>
+<h3 align="center">🚀 AI/ML Engineer | Backend Developer | Spring Boot & Generative AI Enthusiast</h3>
 
 ---
 
 # 💫 About Me
 
-I'm a B.Tech student with a strong focus on **Data Engineering, Analytics, and Artificial Intelligence**.
-I enjoy building end-to-end data-driven systems - from data processing and pipelines to intelligent applications and dashboards.
+I'm a B.Tech Computer Science student passionate about building intelligent applications that combine **Artificial Intelligence, Machine Learning, Generative AI, and Scalable Backend Systems**.
 
-* 🔭 Currently building data-driven and AI-powered applications
-* 🌱 Learning Data Engineering, Cloud (AWS), and Advanced Machine Learning
-* 💡 Interested in scalable data systems, ETL pipelines, and real-world analytics solutions
-* ⚡ Passionate about turning raw data into meaningful insights and intelligent products
+I enjoy developing end-to-end solutions ranging from AI-powered platforms and RAG applications to distributed systems and cloud-native backend architectures.
 
+* 🔭 Currently building AI-powered applications, RAG systems, and scalable backend services
+* 🌱 Learning Advanced Machine Learning, Generative AI, System Design, and Cloud Technologies
+* 💡 Interested in NLP, LLMs, Semantic Search, Vector Databases, and Distributed Systems
+* ⚙️ Experienced with Python, Java, Spring Boot, FastAPI, MongoDB, PostgreSQL, Docker, and AWS
+* 🚀 Passionate about transforming ideas into intelligent, production-ready software solutions
+* 🎯 Aspiring AI/ML Engineer focused on solving real-world problems through technology
 
----
+# 🚀 Featured Projects
 
-## 🚀 Featured Projects
+# 🤖 TalentSync AI – Intelligent Resume Screening & Candidate Ranking Platform
+- Built an AI-powered recruitment platform using NLP, semantic search, and FAISS vector databases for intelligent candidate screening.
+- Developed secure REST APIs with JWT authentication and role-based access control (RBAC).
+- Implemented resume parsing, candidate ranking, and recruiter workflow automation.
+- Containerized services using Docker and deployed scalable backend infrastructure on AWS EC2.
 
-### 🤖 PrepGenie – AI Study Assistant  
-An **AI-powered intelligent learning platform** that generates personalized study plans, notes, and mock tests.
+# 💬 Real-Time Distributed Chat Platform
+- Engineered a distributed real-time messaging platform using Spring Boot, WebSockets, Redis, and JWT authentication.
+- Implemented typing indicators, online presence tracking, and read receipts for enhanced user experience.
+- Integrated Redis Pub/Sub for scalable message broadcasting across multiple server instances.
+- Designed a hybrid PostgreSQL-MongoDB architecture for efficient transactional and chat data management.
 
-- Built using **LLMs, LangChain, and Groq API**
-- Generates **adaptive study schedules** based on user input  
-- Provides **AI-generated notes and explanations**  
-- Designed with a clean, modern UI for better user experience  
+# 🩺 Medical Report Analyzer (RAG System)
+- Developed a Retrieval-Augmented Generation (RAG) system for intelligent medical report analysis.
+- Implemented semantic search using embeddings and FAISS vector indexing.
+- Built FastAPI services for document ingestion, retrieval, and AI-powered response generation.
+- Simulated cloud deployment environments and analyzed system performance using CloudAnalyst.
 
----
+# 📚 PrepGenie – AI Study Assistant
+- Built an AI-powered educational assistant that generates personalized study plans, notes, and mock tests.
+- Integrated LLMs, LangChain, and Groq API for adaptive learning recommendations.
+- Developed backend APIs for content generation and user progress tracking.
+- Optimized prompt workflows to improve response quality and learning effectiveness.
 
-### 🌸 SafeNest – Discreet Domestic Safety Assistant  
-A **women safety web application** designed for emergency situations in unsafe environments.
+# 🛡️ SafeNest – Smart Emergency Safety Assistant
+- Developed a safety-focused platform with SOS activation and emergency response mechanisms.
+- Implemented real-time location tracking and emergency alert notifications.
+- Integrated cloud-based multimedia evidence storage for incident reporting.
+- Designed scalable backend services for secure alert management and monitoring.
 
-- One-click **SOS activation system**  
-- **Automatic video & audio recording** for evidence  
-- **Real-time location tracking with map integration**  
-- **Emergency alerts via SMS, WhatsApp & call options**  
-- **Cloud-based evidence storage (Google Drive)**  
-
----
-
-### 🧠 Medical RAG System  
-Built a Retrieval-Augmented Generation (RAG) system using LangChain and FAISS to extract structured medical insights from unstructured reports.
-
----
-
-### 🎯 Skill Match AI  
-Developed an AI-powered job-candidate matching system using NLP and embeddings to rank candidates intelligently.
-
----
-
-### 🧘 MindEase – AI Mental Health Check-in  
-Designed an AI system that analyzes user input and provides structured emotional wellness feedback.
-
----
-
-### 📊 Sentiment Analysis System  
-Built an NLP pipeline to classify text into positive, negative, or neutral sentiments.
-
----
+# 🧠 MindEase – AI Mental Health Check-In System
+- Built an AI-assisted emotional wellness platform using machine learning and sentiment analysis.
+- Developed pipelines for behavioral analysis and structured emotional check-ins.
+- Generated personalized wellness insights and recommendations.
+- Implemented REST APIs and interactive dashboards for improved user engagement.
 
 ## 🏆 Achievements
 
@@ -81,40 +76,49 @@ Built an NLP pipeline to classify text into positive, negative, or neutral senti
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:riya160305@gmail.com)
 
 ---
-
 ## 🧠 Tech I Work With
 
 ### 💻 Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 🚀 Backend Development
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ---
 
 ### 📊 Data Engineering & Analytics
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![ETL](https://img.shields.io/badge/ETL-Pipelines-6E40C9?style=for-the-badge)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
 ### ☁️ Cloud & Databases
 
-![AWS](https://img.shields.io/badge/AWS-S3%20%7C%20EC2-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-S3%20%7C%20EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
 ### 🤖 AI / Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge\&logo=opencv\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 ---
 
@@ -122,11 +126,16 @@ Built an NLP pipeline to classify text into positive, negative, or neutral senti
 
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge\&logo=huggingface\&logoColor=black)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt--Engineering-6E40C9?style=for-the-badge)
 
 ---
 
+### 🛠️ DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ### 🛠 Tools & Version Control
 
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
