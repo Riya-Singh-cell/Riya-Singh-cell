@@ -1,22 +1,22 @@
 
 
 <h1 align="center">Hi 👋, I'm Riya Singh</h1>
-<h3 align="center">🚀 AI/ML Engineer | Backend Developer | Spring Boot & Generative AI Enthusiast</h3>
+<h3 align="center">🚀 AI/ML Engineer | Data Science Enthusiast | Analytics & Backend Developer</h3>
 
 ---
 
 # 💫 About Me
 
-I'm a B.Tech Computer Science student passionate about building intelligent applications that combine **Artificial Intelligence, Machine Learning, Generative AI, and Scalable Backend Systems**.
+I'm a B.Tech Computer Science student passionate about solving real-world business problems using **Artificial Intelligence, Machine Learning, Data Analytics, and Scalable Software Systems**.
 
-I enjoy developing end-to-end solutions ranging from AI-powered platforms and RAG applications to distributed systems and cloud-native backend architectures.
+I enjoy building end-to-end solutions ranging from AI-powered analytics platforms and machine learning models to interactive dashboards and backend applications.
 
-* 🔭 Currently building AI-powered applications, RAG systems, and scalable backend services
-* 🌱 Learning Advanced Machine Learning, Generative AI, System Design, and Cloud Technologies
-* 💡 Interested in NLP, LLMs, Semantic Search, Vector Databases, and Distributed Systems
-* ⚙️ Experienced with Python, Java, Spring Boot, FastAPI, MongoDB, PostgreSQL, Docker, and AWS
-* 🚀 Passionate about transforming ideas into intelligent, production-ready software solutions
-* 🎯 Aspiring AI/ML Engineer focused on solving real-world problems through technology
+- 🔭 Currently building AI-powered analytics platforms, machine learning applications, and intelligent data-driven solutions
+- 🌱 Learning Advanced Machine Learning, Generative AI, Statistics, Data Engineering, and Cloud Technologies
+- 💡 Interested in Data Science, Predictive Analytics, NLP, LLMs, Business Intelligence, and MLOps
+- ⚙️ Skilled in Python, SQL, Java, Power BI, Pandas, NumPy, Scikit-learn, Spring Boot, FastAPI, PostgreSQL, MongoDB, Docker, and AWS
+- 📊 Passionate about transforming raw data into actionable insights through analytics, visualization, and machine learning
+- 🎯 Aspiring AI/ML Engineer and Data Scientist focused on building intelligent solutions with measurable business impact
 
 # 🚀 Featured Projects
 
